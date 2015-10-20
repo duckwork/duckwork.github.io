@@ -1,26 +1,42 @@
 body > header {
-    margin: 0 auto;
+    margin: 1em auto;
     padding: 1em;
     border: 1px solid black;
+    width: 20em;
 }
 
-body > header > h1 {
+h1 {
     font-size: 1em;
     font-weight: bold;
 }
-body > header > h2 {
+h2 {
     font-size: 1em;
     font-style: italic;
 }
-#about {
-    width: 20em;
-    font-style: italic;
-    color: gray;
-    border-bottom: 1px solid gray;
+
+section {
 }
 
-body {
+section > h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+section > h2 {
+    text-align: center;
+}
+
+.post {
+    border-bottom: 1px solid gray;
     max-width: 39%;
     width: 90%;
     margin: 0 auto;
+    padding: 1em;
+}
+
+.post h1 {
+    text-align: left;
+}
+
+a {
+    text-decoration: none;
 }
