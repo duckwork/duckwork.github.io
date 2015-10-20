@@ -1,0 +1,26 @@
+body > header {
+    margin: 0 auto;
+    padding: 1em;
+    border: 1px solid black;
+}
+
+body > header > h1 {
+    font-size: 1em;
+    font-weight: bold;
+}
+body > header > h2 {
+    font-size: 1em;
+    font-style: italic;
+}
+#about {
+    width: 20em;
+    font-style: italic;
+    color: gray;
+    border-bottom: 1px solid gray;
+}
+
+body {
+    max-width: 39%;
+    width: 90%;
+    margin: 0 auto;
+}
