@@ -15,6 +15,10 @@ h2 {
 }
 
 section {
+    max-width: 39em;
+    width: 90%;
+    margin: 0 auto;
+    border-bottom: 1px solid gray;
 }
 
 section > h1 {
@@ -23,25 +27,36 @@ section > h1 {
 }
 section > h2 {
     text-align: center;
+    position: relative;
+    top: 0.5em;
 }
 
 .post {
-    border-bottom: 1px solid gray;
-    max-width: 39%;
-    width: 90%;
     margin: 0 auto;
     padding: 1em;
 }
 
 .post h1 {
     text-align: left;
+    margin: 0;
+}
+.post h1::after {
+    content: ".";
+}
+.post .date {
+    color: gray;
+    padding: 0;
+    margin: 0;
+    text-align: right;
 }
 
 .in-progress::after {
-    content: "This is an in-progress post, meaning I'm posting it before it's finished to see how writing works over time.  You can see all the revisions at the github page for this site: http://github.com/duckwork/duckwork.github.io.  It's not a link because I'm adding this in as a ::after pseudo-element in CSS.  No it's not the best way to do it.";
+    content: "This post is in-progress.  Track its changes at Github.";
     font-style: italic;
     font-size: 0.8em;
-    border: 1px dashed black;
+    text-align: center;
+    color: gray;
+    border: 1px dashed gray;
     padding: 1em;
     display: block;
 }
