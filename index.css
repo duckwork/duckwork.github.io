@@ -37,6 +37,19 @@ section > h2 {
     text-align: left;
 }
 
+.in-progress::after {
+    content: "This is an in-progress post, meaning I'm posting it before it's finished to see how writing works over time.  You can see all the revisions at the github page for this site: http://github.com/duckwork/duckwork.github.io.  It's not a link because I'm adding this in as a ::after pseudo-element in CSS.  No it's not the best way to do it.";
+    font-style: italic;
+    font-size: 0.8em;
+    border: 1px dashed black;
+    padding: 1em;
+    display: block;
+}
+
 a {
     text-decoration: none;
+}
+img {
+    max-width: 80%;
+    max-height: 300px;
 }
