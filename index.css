@@ -27,8 +27,6 @@ section > h1 {
 }
 section > h2 {
     text-align: center;
-    position: relative;
-    top: 0.5em;
 }
 
 .post {
@@ -43,11 +41,10 @@ section > h2 {
 .post h1::after {
     content: ".";
 }
-.post .date {
+.date {
     color: gray;
     padding: 0;
     margin: 0;
-    text-align: right;
 }
 
 .in-progress::after {
@@ -67,4 +64,6 @@ a {
 img {
     max-width: 80%;
     max-height: 300px;
+    margin: auto;
+    display: inline;
 }
