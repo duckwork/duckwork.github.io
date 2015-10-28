@@ -29,16 +29,16 @@ section > h2 {
     text-align: center;
 }
 
-.post {
+article {
     margin: 0 auto;
     padding: 1em;
 }
 
-.post h1 {
+article h1 {
     text-align: left;
     margin: 0;
 }
-.post h1::after {
+article h1::after {
     content: ".";
 }
 .date {

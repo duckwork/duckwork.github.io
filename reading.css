@@ -1,0 +1,32 @@
+li::after {
+    content: ".";
+    display: block;
+    height: 0;
+    visibility: hidden;
+    clear: both;
+}
+
+.last-updated::before {
+    content: "last updated ";
+    font-style: italic;
+    color: gray;
+}
+
+.read {
+    color: red;
+    border-bottom: 1px dotted red;
+}
+.noway,
+.noway .book {
+    color: gray;
+    text-decoration: line-through;
+}
+
+.explanation {
+    font-style: italic;
+}
+
+.book {
+    float: right;
+    font-style: italic;
+}
