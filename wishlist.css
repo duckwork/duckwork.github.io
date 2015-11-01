@@ -1,0 +1,3 @@
+.author::before {
+    content: "by ";
+}
