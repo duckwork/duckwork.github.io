@@ -61,6 +61,11 @@ article h1::after {
 a {
     text-decoration: none;
 }
+
+.figure {
+  display: inline-block;
+  text-align: center;
+}
 img {
     max-width: 80%;
     max-height: 300px;
