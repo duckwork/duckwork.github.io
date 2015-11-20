@@ -69,8 +69,8 @@ a {
 }
 
 .figure {
-  display: inline-block;
-  text-align: center;
+  display: block;
+  margin: auto;
 }
 figcaption, figcaption::before, figcaption::after {
   font-size: 0.8em;
@@ -83,4 +83,5 @@ img {
     max-height: 300px;
     margin: auto;
     display: inline;
+    text-align: center;
 }
