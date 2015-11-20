@@ -9,6 +9,12 @@ h1 {
     font-size: 1em;
     font-weight: bold;
 }
+.anchor {
+  /* font-size: 0.5em; */
+  color: gray;
+  text-decoration: none;
+  float: right;
+}
 h2 {
     font-size: 1em;
     font-style: italic;

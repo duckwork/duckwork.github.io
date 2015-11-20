@@ -3,6 +3,7 @@
 # vim: fdm=marker
 
 htmlOptions := --template=p/_template.html
+htmlOptions += --smart --ascii
 htmlOptions += --normalize
 
 reverse = $(if $(wordlist 2,2,$(1)),$(call reverse,$(wordlist 2,$(words $(1)),$(1))) $(firstword $(1)), $(1))
@@ -20,5 +21,5 @@ again : clean all
 p/%.htm : p/%.txt
 	pandoc $< -t html5 $(htmlOptions) -o $@
 
-index.html : $(outputs)
+index.html : $(outputs) | p/_template.html _ante-index.html _post-index.html
 	cat _ante-index.html $(call reverse,$^) _post-index.html > $@
