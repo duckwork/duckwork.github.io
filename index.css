@@ -53,6 +53,15 @@ article h1::after {
   margin: 0;
 }
 
+blockquote {
+  /* I'm 'hacking' these as longish parentheticals in the pandoc source. */
+  color: gray;
+  border: 1px dashed gray;
+  padding-left: 1em;
+  padding-right: 1em;
+  font-style: italic;
+}
+
 .in-progress::after {
   content: "This post is in-progress.  Track its changes at Github.";
   font-style: italic;
