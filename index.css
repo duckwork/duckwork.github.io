@@ -1,8 +1,14 @@
+html {
+  font-size: 16px;
+  line-height: 1.5em;
+  background-color: #f8f8f8;
+  color: #080808;
+}
 body > header {
   margin: 1em auto;
   padding: 1em;
-  border: 1px solid black;
-  width: 20em;
+  border: 1px solid #080808;
+  max-width: 20em;
 }
 
 h1 {
@@ -11,9 +17,10 @@ h1 {
 }
 .anchor {
   /* font-size: 0.5em; */
-  color: gray;
-  text-decoration: none;
+  color: #6e6e6e;
   float: right;
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
 }
 h2 {
   font-size: 1em;
@@ -24,7 +31,7 @@ section {
   max-width: 39em;
   width: 90%;
   margin: 0 auto;
-  border-bottom: 1px solid gray;
+  border-bottom: 1px solid #6e6e6e;
 }
 
 section > h1 {
@@ -48,34 +55,29 @@ article h1::after {
   content: ".";
 }
 .date {
-  color: gray;
+  font-weight: normal;
   padding: 0;
   margin: 0;
 }
 
 blockquote {
   /* I'm 'hacking' these as longish parentheticals in the pandoc source. */
-  color: gray;
-  border: 1px dashed gray;
+  color: #6e6e6e;
+  border: 1px dashed #6e6e6e;
   padding-left: 1em;
   padding-right: 1em;
   font-style: italic;
+  margin-left: 0;
+  margin-right: 0;
 }
 
-.in-progress::after {
-  content: "This post is in-progress.  Track its changes at Github.";
-  font-style: italic;
-  font-size: 0.8em;
-  text-align: center;
-  color: gray;
-  border: 1px dashed gray;
-  padding: 1em;
-  display: block;
+a { color: inherit; }
+a:link {
+  text-decoration: none;
+  border-bottom: 1px solid;
+  padding-bottom: 1px;
 }
-
-a { color: black; }
-a:link { text-decoration: underline; }
-a:active { text-decoration: underline overline; }
+a:active { text-decoration: underline; }
 
 .figure {
   display: block;
@@ -85,7 +87,7 @@ figcaption, figcaption::before, figcaption::after {
   font-size: 0.8em;
   font-style: italic;
   text-align: center;
-  color: gray;
+  color: #6e6e6e;
 }
 img {
   max-width: 80%;

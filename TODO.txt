@@ -1,0 +1,26 @@
+TODO:
+====
+
+- Pandoc
+    - fix 'blockquote styled as aside' hack.  This could be done a few ways:
+        - put the asides in 'fenced code blocks' with {.aside} class, then 
+          transform 'Code' blocks to 'Div's with class 'aside' (which in HTML
+          would be written as <aside>, maybe).
+        - fix the CSS to only work on blockquotes that are ':first-child',
+          though that's brittle.
+- Publishing
+    - at some point, the year will flip over.  I need to figure out what to do
+      about having different years in my blog entries.
+    - include some better form of navigation?  like a side nav that turns to
+      a top nav on a media query?  and maybe a few other options when it comes
+      to categories or sections of the blog.
+- Sections
+    - resume / cv
+        - it'd be really great if it was dynamic in some way, like you could
+          view the whole thing or just stuff that you want, like Tech jobs or
+          Writing jobs or Assistance jobs or something. 
+    - wishlists / reading lists
+        - could just be organized better or easier to *do*; like by using
+          pandoc to compile easier-edited text files to HTML.
+            - the problem here of course is getting titles and authors styled
+              right while keeping it easy to maintain in the text source.
