@@ -1,6 +1,6 @@
 % No failures are planned, I guess
 % no-fail
-% 11-21
+% 11/21
 
 I'm writing this in the morning -- 9:42 in the morning, in fact -- because 
 it's a post about my failure yesterday to write a post about failure.  I've 
