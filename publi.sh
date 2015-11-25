@@ -1,11 +1,13 @@
 #!/usr/bin/env bash
 # Small script to publish a new post.
 
-force="${1:-n}"
+arg="${1:-n}"
+
+# TODO: add switches to enable different commit message; no-web option
 
 if ! make -q; then
   make
-elif [[ "$force" == "-f" ]]; then
+elif [[ "$arg" == "-f" ]]; then
   make again
 fi
 
