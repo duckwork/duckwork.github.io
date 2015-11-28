@@ -8,9 +8,21 @@ while (( "$#" > 0 )); do
     -m ) promptMsg=true ;;
     -M ) editMsg=true   ;;
     -n ) offline=true   ;;
+    -h ) do_help        ;;
   esac
   shift;
 done
+
+do_help() {
+  cat <<EOF
+  PUBLI.SH FOR DUCKWORK'S BLOG
+  -f        force \`make\` to fire
+  -m        prompt for \`git\` commit message
+  -M        open an editor for commit message
+  -n        don't \`git push\`
+  -h        help!
+EOF
+}
 
 if ! make -q; then
   echo "Making..."
