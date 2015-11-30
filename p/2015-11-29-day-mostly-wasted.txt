@@ -1,0 +1,16 @@
+% A day mostly wasted
+% day-mostly-wasted
+% 11/29
+
+Okay, today was my day off from Drake's.  I *should have* done many things,
+like applied to jobs or something, but I did not.  Instead, I [rebased my
+vimrc][vimrc] again, which was cool and fun but not useful.  Oh, I also [made
+a new colorscheme][colorscheme] to hopefully be a little less distracting?
+We'll see.  I wasn't that distracted to begin with, really.
+
+And now I'm going to bed.  I have to stop doing this.  Is this one of those
+posts that I'll look at later and remember "Bad days happen?"  All I know is
+that I've got to work on it.
+
+[vimrc]: https://github.com/duckwork/dots/blob/vim_from_scratch/vimrc
+[colorscheme]: https://github.com/duckwork/minimal
