@@ -12,12 +12,13 @@ and finally got bored. I flipped over to the comments.
 [hn]: http://news.ycombinator.com
 [snapchat]: http://www.fastcompany.com/3051612/innovation-agents/media-tech-and-advertising-to-snapchat-i-aint-afraid-of-no-ghost
 
-When I got [there][], I found this:
+When I got [there], I found this:
 
 ![Some bible verses](i/hn-comment-screenshot.png)
 
 Obviously, it's a spam message quoting the Bible for who knows who or why. I
-know this because when I checked again, and if you check now, you'll see what
+know this *because* when I checked again, and if you **check** now, you'll 
+see what
 I saw, which is that this comment is no longer there. I don't know why the
 spammer chose a username like "TerryADavis," and I don't know why they chose
 the quotes they chose, and I don't know why they thought spamming HN was a
