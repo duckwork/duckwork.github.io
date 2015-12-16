@@ -27,6 +27,19 @@ h2 {
   font-style: italic;
 }
 
+h3 {
+  float: left; 
+  font-size: 1em;
+  margin: 0;
+  margin-right: 0.5em;
+  padding: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+h3::after {
+  content: ":"
+}
+
 section {
   max-width: 39em;
   width: 90%;
