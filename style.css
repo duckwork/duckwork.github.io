@@ -1,0 +1,26 @@
+/* Style */
+
+body {
+  font-family: serif;
+  background-color: #fef9ec;
+  color: #6d727e;
+  border: 1em solid #6d727e;
+  margin: 0; padding: 1em;
+}
+
+header {
+  font-family: sans-serif;
+  border: 1em solid #6d727e;
+  width: 690px;
+  margin: auto;
+}
+
+h1 {
+  margin: 1em;
+  text-align: center;
+}
+
+a {
+  color: #6d727e;
+  text-decoration: none;
+}
