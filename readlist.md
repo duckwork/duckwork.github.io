@@ -26,6 +26,8 @@ The rule is as follows: if it's there, I'll read it again.  I'm an inveterate
 read-oncer,[^1] but I really think that should change.  Reading books more
 than once allows them to open up and reveal their deeper meanings.
 
+[^1]: Is this the correct usage of inveterate?  The world may never know.
+
 # My old readlist
 
 *So if you peer into the history of this site, you'll see I had an old
