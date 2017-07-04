@@ -21,5 +21,24 @@ I'm also the progenitor / sole remaining member (as far as I know) of [Loose
 Poops](https://loosepoops.github.io), an art collective. [JOIN
 US](mailto:mahataman2@gmail.com) for funzos, if you want.
 
-Yeap, okay. That's it. for
-now................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+# Colophon
+
+This site is generated on [Github pages][] using [Jekyll][].  The color theme
+is based loosely off of the [acme][] editor's.  The font that *I* see (because
+I have it installed) is CMU Typewriter Text Variable Width, which is bundled
+with [TeX][],[^1] but you probably see Georgia or some serif font, because I'm
+lazy and don't want to bother embedding the fonts.  I compose my posts in
+[Vim][] installed on a laptop powered by [Gentoo][].  I use the [awesome][]
+window manager if you care about that.  I'm trying as well as I can to use
+free software where possible.  I should probably write a post about my ideas
+around intellectual property, etc., but for now, I'm just living them.
+
+[Github pages]: https://pages.github.com
+[Jekyll]: https://jekyllrb.com/
+[acme]: https://acme.cat-v.org
+[TeX]: https://www.tug.org
+[Vim]: https://www.vim.org
+[Gentoo]: https://gentoo.org
+[awesome]: https://awesomewm.org
+
+[^1]: I think, anyway.  I don't know; I have the font installed and I know that the CMU fonts have come from TeX in other distros I've used.  I'm pretty sure that if you follow TeX you'll get the font, if you're looking for it; at any rate TeX is great software so there's that.
