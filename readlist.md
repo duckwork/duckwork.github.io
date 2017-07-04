@@ -162,3 +162,9 @@ It's right here.*
 1.  City Neighbor, The Story of Jane Addams -- Clara Ingram Judson
 1.  Ivan the Fool -- Leo Tolstoy
 1.  The Voyages of Doctor Dolittle -- Hugh Lofting
+
+# Others
+
+*I wrote a script to automatically add books I think of to this list here.*
+
+- Hunger -- Roxanne Gay
