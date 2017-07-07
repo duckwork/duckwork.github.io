@@ -177,3 +177,4 @@ It's right here.*
 - _The Core of the Sun_ -- Johanna Sinisalo
 - _The Raw and the Cooked_ -- Claude Levi-Strauss
 - _Neuromancer_ -- William Gibson
+- _Verbal Behavior_ -- B. F. Skinner
