@@ -127,7 +127,7 @@ It's right here.*
 1. _Eagle of The Ninth_ -- Rosemary Sutcliff
 1. _The Treasure of the Nibelungs_ -- Gustav Schalk
 1. _The Three Musketeers_ -- Alexandre Dumas, père
-1. _A Wizard of Earthsea_ -- Ursula K. Le Guin
+1. [_A Wizard of Earthsea_]({% post_url 2017-07-08-Words-and-Meaning %})-- Ursula K. Le Guin
 1. _Les Princes du Vent_ -- Michel-Aime Baudouy
 1. _The Flambards Series_ -- K. M. Peyton
 1. _Souvenirs entomologiques_ -- Jean Henri Fabre
