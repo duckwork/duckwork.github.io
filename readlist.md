@@ -28,6 +28,15 @@ than once allows them to open up and reveal their deeper meanings.
 
 [^1]: Is this the correct usage of inveterate?  The world may never know.
 
+# Reading now
+
+*A backward list of books not already on this list, hopefully with links to
+reviews or whatever.  Confusing, right?*
+
+- *Down and Out in the Magic Kingdom* -- Cory Doctorow
+- *Space Battle Lunchtime, Volume 1: Lights, Camera, Snacktion!* -- Natalie Riess
+- *Even in Paradise* -- Elizabeth Nunez
+
 # My old readlist
 
 *So if you peer into the history of this site, you'll see I had an old
