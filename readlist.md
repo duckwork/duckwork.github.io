@@ -170,3 +170,11 @@ It's right here.*
 *I wrote a script to automatically add books I think of to this list here.*
 
 - _Hunger_ -- Roxanne Gay
+- _Post Scarcity Anarchism_ -- Murray Bookchin
+- _People's Capitalism_ -- J. S. Albus
+- _The Second Machine Age_ -- Erik Brynjolfsson and Andrew McAfee
+- _Amatka_ - Karin Tidbeck
+- _The Core of the Sun_ -- Johanna Sinisalo
+- _The Raw and the Cooked_ -- Claude Levi-Strauss
+- _Neuromancer_ -- William Gibson
+- _Verbal Behavior_ -- B. F. Skinner
