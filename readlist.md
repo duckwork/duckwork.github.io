@@ -174,6 +174,14 @@ It's right here.*
 1. _Ivan the Fool_ -- Leo Tolstoy
 1. _The Voyages of Doctor Dolittle_ -- Hugh Lofting
 
+# Online stuff
+
+*The internet is a crazy place, and there are whole books to read on it.  Here's some of them.*
+
+- [_On a Sunbeam_](http://www.onasunbeam.com/) -- Tillie Walden
+- [_Sorcery 101_](http://www.sorcery101.net/) -- Kel McDonald
+- [_Luminous Airplanes_](http://www.luminousairplanes.com/) -- Paul La Farge
+
 # Others
 
 *I wrote a script to automatically add books I think of to this list here.*
