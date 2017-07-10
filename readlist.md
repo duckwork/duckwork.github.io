@@ -187,3 +187,16 @@ It's right here.*
 - _The Raw and the Cooked_ -- Claude Levi-Strauss
 - _Neuromancer_ -- William Gibson
 - _Verbal Behavior_ -- B. F. Skinner
+- _Astro Boy Omnibus_ -- Osamu Tezuka
+- _A Contract with God and Other Tenement Stories_ -- Will Eisner
+- _Stranger in a Strange Land_ -- Robert Heinlein
+- _Do Androids Dream of Electric Sheep?_ -- Philip K. Dick
+- _The Handmaid's Tale_ -- Margaret Atwood
+- _The Gunslinger_ -- Stephen King
+- _Starship Troopers_ -- Robert Heinlein
+- _A Canticle for Leibowitz_ -- Walter M. Miller, Jr.
+- _The Mists of Avalon_ -- Marion Zimmer Bradley
+- _Ringworld_ -- Larry Niven
+- _The Left Hand of Darkness_ -- Ursula K. Le Guin
+- _The Last Unicorn_ -- Peter S. Beagle
+- _Consider Phlebas_ -- Iain M. Banks
