@@ -33,6 +33,7 @@ than once allows them to open up and reveal their deeper meanings.
 *A backward list of books not already on this list, hopefully with links to
 reviews or whatever.  Confusing, right?*
 
+- *Cinderella Ate My Daughter* -- Peggy Orenstein
 - *Down and Out in the Magic Kingdom* -- Cory Doctorow
 - *Space Battle Lunchtime, Volume 1: Lights, Camera, Snacktion!* -- Natalie Riess
 - *Even in Paradise* -- Elizabeth Nunez
@@ -182,6 +183,7 @@ It's right here.*
 - [_Sorcery 101_](http://www.sorcery101.net/) -- Kel McDonald
 - [_Luminous Airplanes_](http://www.luminousairplanes.com/) -- Paul La Farge
 - [_Snarlbear_](http://www.snarlbear.com/index.php?id=1) -- Natalie Riess
+- [_17776_](https://www.sbnation.com/a/17776-football) -- Jon Bols
 
 # Others
 
