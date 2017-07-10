@@ -181,6 +181,7 @@ It's right here.*
 - [_On a Sunbeam_](http://www.onasunbeam.com/) -- Tillie Walden
 - [_Sorcery 101_](http://www.sorcery101.net/) -- Kel McDonald
 - [_Luminous Airplanes_](http://www.luminousairplanes.com/) -- Paul La Farge
+- [_Snarlbear_](http://www.snarlbear.com/index.php?id=1) -- Natalie Riess
 
 # Others
 
