@@ -2,7 +2,7 @@
 layout: post
 title:  "Words and Meaning"
 date:   2017-07-08 22:57:23 -0500
-categories: review
+categories: readlist
 ---
 
 Stories about wizards have always held great charm for me, and in reading *A

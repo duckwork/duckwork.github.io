@@ -2,7 +2,7 @@
 layout: post
 title: "Space Battle Lunchtime"
 date: 2017-07-10 13:02:00 -0700
-categories: review
+categories: readlist
 ---
 
 I love comic books.  I love how they're able to live in that space between

@@ -2,7 +2,7 @@
 layout: post
 title: "Instructions to the Cook"
 date: 2017-07-04
-categories: review
+categories: readlist
 ---
 
 It's funny -- as I was cleaning up my [Readlist][], removing things that had
