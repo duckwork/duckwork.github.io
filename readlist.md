@@ -35,8 +35,11 @@ reviews or whatever.  Confusing, right?*
 
 - *Cinderella Ate My Daughter* -- Peggy Orenstein
 - *Down and Out in the Magic Kingdom* -- Cory Doctorow
-- *Space Battle Lunchtime, Volume 1: Lights, Camera, Snacktion!* -- Natalie Riess
+- [*Space Battle Lunchtime, Volume 1: Lights, Camera, Snacktion!*][sbl] --
+    Natalie Riess
 - *Even in Paradise* -- Elizabeth Nunez
+
+[sbl]: {% post_url 2017-07-10-space-battle-lunchtime %}
 
 # My old readlist
 
@@ -72,7 +75,8 @@ It's right here.*
 
 - _Doctor Placebo_ -- Alan Wall
 - _Exploding the Phone_ -- Phil Lapsley
-- [_Instructions to the Cook: A Zen Master's Lessons in Living a Life That Matters_]({% post_url 2017-07-04-instructions-to-the-cook %}) -- Bernie Glassman & Rick Fields
+- [_Instructions to the Cook: A Zen Master's Lessons 
+    in Living a Life That Matters_][ittc] -- Bernie Glassman & Rick Fields
 - _Letters to a Young Poet Rainer_ -- Maria Rilke
 - _Love's Work_ -- Gillian Rose
 - _Newsfail_ -- Jamie Kilsten & Allison Kilkenny
@@ -82,8 +86,11 @@ It's right here.*
 - _Stolen Lightning: The Social Theory of Magic_ -- Daniel Lawrence O'Keefe
 - _The Poetics of Space_ -- Gaston Bachelard, Maria Jolas, & John R. Stilgoe
 - _The Sculptor_ -- Scott McCloud
-- _The Wave in the Mind: Talks and Essays on the Writer, the Reader, and the Imagination_ -- Ursula K. LeGuin
+- _The Wave in the Mind: Talks and Essays on the Writer, the Reader, 
+    and the Imagination_ -- Ursula K. LeGuin
 - _Veganomicon_ -- Isa Chandra Moskowitz & Terry Hope Romero
+
+[ittc]: {% post_url 2017-07-04-instructions-to-the-cook %}
 
 ## Fiction
 
@@ -116,12 +123,40 @@ It's right here.*
 
 ## Drama
 
-- _Three Tragedies: Blood Wedding, Yerma, Bernarda Alba_ -- Federico Garcia Lorca
+- _Three Tragedies: Blood Wedding, Yerma, Bernarda Alba_ -- 
+    Federico Garcia Lorca
 - _Bacchae_ -- Euripides
 
-# Miyazaki's 50 best children's books
+# Online stuff
 
-*via 
+*The internet is a crazy place, and there are whole books to read on it.  Here's some of them.*
+
+- [_On a Sunbeam_](http://www.onasunbeam.com/) -- Tillie Walden
+- [_Sorcery 101_](http://www.sorcery101.net/) -- Kel McDonald
+- [_Luminous Airplanes_](http://www.luminousairplanes.com/) -- Paul La Farge
+- [_Snarlbear_](http://www.snarlbear.com/index.php?id=1) -- Natalie Riess
+- [_17776_](https://www.sbnation.com/a/17776-football) -- Jon Bols
+
+# Recommendations
+
+*Many times, I see a recommendation or three online or wherever.  Here they
+are.*
+
+## C.R.
+
+*She's teaching a "literary bad girls" class.  Here's her reading list.*
+
+- _Their Eyes Were Watching God_ -- Zora Neal Hurston
+- _The Autobiography of My Mother_ -- Jamaica Kincaid
+- _Nightwood_ -- Djuna Barnes
+- _Tracks_ -- Louise Erdich
+- _Becoming Madame Mao_ -- Anchee Min
+- _Foxfire_ -- Joyce Carol Oates
+- _My Brilliant Friend_ -- Elena Ferrante
+
+## Miyazaki
+
+*Here's his top 50 children's books, via 
 [Open Culture](http://www.openculture.com/2017/05/hayao-miyazaki-picks-his-50-favorite-childrens-books.html)*
 
 1. _The Borrowers_ -- Mary Norton
@@ -137,7 +172,7 @@ It's right here.*
 1. _Eagle of The Ninth_ -- Rosemary Sutcliff
 1. _The Treasure of the Nibelungs_ -- Gustav Schalk
 1. _The Three Musketeers_ -- Alexandre Dumas, père
-1. [_A Wizard of Earthsea_]({% post_url 2017-07-08-Words-and-Meaning %})-- Ursula K. Le Guin
+1. [_A Wizard of Earthsea_][earthsea] -- Ursula K. Le Guin
 1. _Les Princes du Vent_ -- Michel-Aime Baudouy
 1. _The Flambards Series_ -- K. M. Peyton
 1. _Souvenirs entomologiques_ -- Jean Henri Fabre
@@ -175,15 +210,7 @@ It's right here.*
 1. _Ivan the Fool_ -- Leo Tolstoy
 1. _The Voyages of Doctor Dolittle_ -- Hugh Lofting
 
-# Online stuff
-
-*The internet is a crazy place, and there are whole books to read on it.  Here's some of them.*
-
-- [_On a Sunbeam_](http://www.onasunbeam.com/) -- Tillie Walden
-- [_Sorcery 101_](http://www.sorcery101.net/) -- Kel McDonald
-- [_Luminous Airplanes_](http://www.luminousairplanes.com/) -- Paul La Farge
-- [_Snarlbear_](http://www.snarlbear.com/index.php?id=1) -- Natalie Riess
-- [_17776_](https://www.sbnation.com/a/17776-football) -- Jon Bols
+[earthsea]: {% post_url 2017-07-08-Words-and-Meaning %}
 
 # Others
 
