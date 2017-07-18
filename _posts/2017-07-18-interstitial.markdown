@@ -10,7 +10,7 @@ the other side of two covers.  I just finished reading *The
 City and the City* (Miéville), in which interstice is a 
 character: the novel is about two city-states that share the 
 same geography (are *topogangers*, one of Miéville's 
-wonderful neologisms to describe the political,  
+wonderful neologisms to describe the political,
 bureaucratic, and geographical nature of the cities), where 
 breaching the borders between the two is an existential 
 crime. The book itself is a gripping murder mystery that 
