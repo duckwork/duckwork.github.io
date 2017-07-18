@@ -33,13 +33,18 @@ than once allows them to open up and reveal their deeper meanings.
 *A backward list of books not already on this list, hopefully with links to
 reviews or whatever.  Confusing, right?*
 
-- *Cinderella Ate My Daughter* -- Peggy Orenstein
-- *Down and Out in the Magic Kingdom* -- Cory Doctorow
+- [*The City and the City*][citycity] -- China Miéville
+- [*Cinderella Ate My Daughter*][cinderelladaughter] -- Peggy Orenstein
+- [*Down and Out in the Magic Kingdom*][magickingdom] -- Cory Doctorow
 - [*Space Battle Lunchtime, Volume 1: Lights, Camera, Snacktion!*][sbl] --
     Natalie Riess
-- *Even in Paradise* -- Elizabeth Nunez
+- [*Even in Paradise*][evenparadise] -- Elizabeth Nunez
 
 [sbl]: {% post_url 2017-07-10-space-battle-lunchtime %}
+[citycity]: {% post_url 2017-07-18-insterstitial %}
+[cinderelladaughter]: {% post_url 2017-07-18-insterstitial | append: "#cinderella-ate-my-daughter-peggy-orenstein" %}
+[magickingdom]: {% post_url 2017-07-18-insterstitial | append: "#down-and-out-in-the-magic-kingdom-cory-doctorow" %}
+[evenparadise]: {% post_url 2017-07-18-insterstitial | append: "#even-in-paradise-elizabeth-nunez" %}
 
 # My old readlist
 
