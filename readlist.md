@@ -132,11 +132,11 @@ It's right here.*
 *The internet is a crazy place, and there are whole books to read on it. 
 Here's some of them.*
 
-- [_On a Sunbeam_](http://www.onasunbeam.com/) -- Tillie Walden
-- [_Sorcery 101_](http://www.sorcery101.net/) -- Kel McDonald
-- [_Luminous Airplanes_](http://www.luminousairplanes.com/) -- Paul La Farge
-- [_Snarlbear_](http://www.snarlbear.com/index.php?id=1) -- Natalie Riess
-- [_17776_](https://www.sbnation.com/a/17776-football) -- Jon Bols
+- _On a Sunbeam_ -- Tillie Walden \[[link](http://www.onasunbeam.com/)]
+- _Sorcery 101_ -- Kel McDonald \[[link](http://www.sorcery101.net/)]
+- _Luminous Airplanes_ -- Paul La Farge \[[link](http://www.luminousairplanes.com/)]
+- _Snarlbear_ -- Natalie Riess \[[link](http://www.snarlbear.com/index.php?id=1)]
+- _17776_ -- Jon Bols \[[link](https://www.sbnation.com/a/17776-football)]
 
 # Recommendations
 
@@ -217,7 +217,7 @@ are.*
 
 *via [NPR](http://www.npr.org/2017/07/12/533862948/lets-get-graphic-100-favorite-comics-and-graphic-novels),
 though I'm not including all of them becuase they're elsewhere on this list or I've 
-already read *Calvin and Hobbes* like, a million times, okay?*
+already read _Calvin and Hobbes_ like, a million times, okay?*
 
 ### Graphic novels
 
