@@ -82,7 +82,8 @@ It's right here.*
 - _Newsfail_ -- Jamie Kilsten & Allison Kilkenny
 - _Reality Hunger_ -- David Shields
 - _S/Z_ -- Roland Barthes
-- _Shady Characters: The Secret Life of Punctuation, Symbols, and Other Typographical Marks_ -- Keith Houston
+- _Shady Characters: The Secret Life of Punctuation, Symbols, 
+    and Other Typographical Marks_ -- Keith Houston
 - _Stolen Lightning: The Social Theory of Magic_ -- Daniel Lawrence O'Keefe
 - _The Poetics of Space_ -- Gaston Bachelard, Maria Jolas, & John R. Stilgoe
 - _The Sculptor_ -- Scott McCloud
@@ -107,7 +108,6 @@ It's right here.*
 - _Infinite Jest_ -- David Foster Wallace
 - _JR_ -- William Gaddis
 - _Johnny Got His Gun_ -- Dalton Trumbo
-- _Nausicaa of the Valley of the Wind_ -- Hayao Miyazaki
 - _Once Upon an Alphabet_ -- Oliver Jeffers
 - _Paprika_ -- Yasutaka Tsutsui
 - _Swann's Way_ -- Marcel Proust
@@ -129,7 +129,8 @@ It's right here.*
 
 # Online stuff
 
-*The internet is a crazy place, and there are whole books to read on it.  Here's some of them.*
+*The internet is a crazy place, and there are whole books to read on it. 
+Here's some of them.*
 
 - [_On a Sunbeam_](http://www.onasunbeam.com/) -- Tillie Walden
 - [_Sorcery 101_](http://www.sorcery101.net/) -- Kel McDonald
@@ -211,6 +212,142 @@ are.*
 1. _The Voyages of Doctor Dolittle_ -- Hugh Lofting
 
 [earthsea]: {% post_url 2017-07-08-Words-and-Meaning %}
+
+## NPR's 100 Favorite Comics and Graphic Novels
+
+*via [NPR](http://www.npr.org/2017/07/12/533862948/lets-get-graphic-100-favorite-comics-and-graphic-novels),
+though I'm not including all of them becuase they're elsewhere on this list or I've 
+already read *Calvin and Hobbes* like, a million times, okay?*
+
+### Graphic novels
+
+- _Nimona_ -- Noelle Stevenson
+- _Watchmen_ -- Alan Moore, Dave Gibbons
+- _Maus: A Survivor's Tale_ -- Art Spiegelman
+- _Daytripper_ -- Gabriel Ba, Fabio Moon
+- _This One Summer_ -- Mariko Tamaki, Jillian Tamaki
+- _Sweet Tooth_ -- Jeff Lemire
+- _Through the Woods_ -- Emily Carroll
+- _Blankets_ -- Craig Thompson
+- _My Favorite Thing is Monsters_ -- Emil Ferris
+- _Jimmy Corrigan: The Smartest Kid on Earth_ -- Chris Ware
+- _Blacksad_ -- Juan Diaz Canales, Juanjo Guarnido
+- _Here_ -- Richard McGuire
+- _How to Be Happy_ -- Eleanor Davis
+- _Megahex_ -- Simon Hanselmann
+- _The Color of Earth_ -- Kim Dong Hwa
+- _The Encyclopedia of Early Earth_ -- Isabel Greenberg
+
+### Series comics
+
+- _Love and Rockets_ -- Jaime Hernandez, Gilbert Hernandez
+- _Eightball_ -- Daniel Clowes
+- _Monstress_ -- Marjorie Liu, Sana Takeda
+- _The Wicked + The Divine_ -- Kieron Gillen, Jamie McKelvie
+- _Bitch Planet_ -- Kelly Sue Deconnick, Valentine De Landro
+- _Locke & Key_ -- Joe Hill, Gabriel Rodriguez
+- _Transmetropolitan_ -- Warren Ellis, Darick Robertson
+- _Planetary_ -- Warren Ellis, John Cassaday
+- _The Walking Dead_ -- Robert Kirkman, Tony Moore
+- _Usagi Yojimbo: Grasscutter_ -- Stan Sakai
+- _Doom Patrol_ -- Grant Morrison, Richard Case
+- _Mouse Guard_ -- David Peterson
+- _The MAD Archives_ -- Harvey Kurtzman
+- _Whiteout_ -- Greg Rucka, Steve Lieber
+- _Finder_ -- Carla Speed McNeil
+
+### Manga
+
+- _Lone Wolf And Cub_ -- Goseki Kojima, Kazua Koike
+- _Nausicaa of the Valley of the Wind_ -- Hayao Miyazaki
+- _Akira_ -- Katsuhiro Otomo
+- _Pluto_ -- Naoki Urasawa
+- _One Piece_ -- Eiichiro Oda
+- _Full Metal Alchemist_ -- Hiromu Arakawa
+- _Goodnight Punpun_ -- Inio Asano
+
+### Graphic nonfiction
+
+- _Persepolis_ -- Marjane Satrapi
+- _Fun Home_ -- Alison Bechdel
+- _March_ -- John Lewis, Andrew Aydin, Nate Powell
+- _Your Black Friend_ -- Ben Passmore
+- _Understanding Comics_ -- Scott McCloud
+- _Hip Hop Family Tree_ -- Ed Piskor
+
+### Fantasy and science fiction
+
+- _Saga_ -- Brian K. Vaughan, Fiona Staples
+- _Shade, the Changing Man_ -- Peter Milligan, Chris Bachalo
+- _The Incal_ -- Alexandro Jodorowsky, Moebius
+- _Elfquest_ -- Wendy Pini, Richard Pini
+- _The Sandman_ -- Neil Gaiman et al.
+
+### Superheroes
+
+- _Batman: The Dark Knight Returns_ -- Frank Miller, Klaus Janson, Lynn Varley
+- _Black Panther_ -- Ta-Nehisi Coates, Brian Stelfreeze
+- _Ms. Marvel_ -- Adrian Alphona, G. Willow Wilson
+- _The Vision_ -- Tom King, Gabriel Hernandez Walta
+- _Wonder Woman_ -- Gail Simone, Amanda Deibert
+- _Astro City_ -- Kurt Busiek, Brent Anderson
+- _Saga of the Swamp Thing_ -- Alan Moore, Steve R. Bissette, John Totleben
+- _Gotham Central_ -- Greg Rucka, Ed Brubaker, Michael Lark
+- _X-Men: God Loves, Man Kills_ -- Chris Claremont, Brent Anderson
+- _Nextwave: Agents of H.A.T.E._ -- Warren Ellis, Stuart Immonen
+- _DC: The New Frontier_ -- Dave Stewart, Darwyn Cooke
+- _The Unbeatable Squirrel Girl_ -- Ryan North, Erica Henderson
+- _Hellboy_ -- Mike Mignola
+- _All Star Superman_ -- Grant Morrison, Frank Quitely
+- _Hawkeye_ -- Matt Fraction, David Aja, Javier Pulido
+
+### Newspaper Strips
+
+- _Krazy Kat: Love in a Kestle or Love in a Hut_ -- George Herriman
+- _Pogo_ -- Walt Kelly
+- _Dykes to Watch Out For_ -- Alison Bechdel
+- _Bloom County_ -- Berke Breathed
+- _Mary Perkins on Stage_ -- Leonard Starr
+- _Little Lulu_ -- John Stanley
+- _Earnie Pook's Comeek_ -- Lynda Barry
+- _Thimble Theater_ -- E. C. Segar
+
+### Web comics
+
+- _Bad Machinery_/_Scary Go Round_ -- John Allison \[[online][bad machinery]]
+- _Wondermark_ -- David Maliki ! \[[online][wondermark]]
+- _Homestuck_ -- Andrew Hussie \[[online][homestuck]
+- _As the Crow Flies_ -- Melanie Gillman \[[online][crow]]
+- _Stand Still Stay Silent_ -- Minna Sundberg \[[online][stillsilent]]
+- _Check, Please!_ -- Ngozi Ukazu \[[online][check]]
+- _Gunnerkrigg Court_ -- Thomas Siddell \[[online][gunnerkrigg]]
+- _Kill Six Billion Demons_ -- Tom Parkinson-Morgan \[[online][k6bd]]
+- _O Human Star_ -- Blue Delliquanti \[[online][humanstar]]
+- _The Less than Epic Adventures of TJ and Amal_ -- ??? \[[online][tjamal]]
+- _Vattu_ -- Evan Dahm \[[online][vattu]]
+
+### All ages
+
+- _Ghosts_ -- Raina Telgemeier
+- _Castle Waiting_ -- Linda Medley
+- _American Born Chinese_ -- Gene Luen Yang
+- _Carl Barks' Disney Ducks_ -- Carl Barks
+- _Zita the Space Girl_ -- Ben Hatke
+- _Amulet_ -- Kazu Kibuishi
+- _El Deafo_ -- Cece Bell, David Lasky
+- _Bone_ -- Jeff Smith
+
+[bad machinery]: http://scarygoround.com/
+[wondermark]: http://wondermark.com/
+[homestuck]: http://www.mspaintadventures.com/
+[crow]: http://www.melaniegillman.com/
+[stillsilent]: http://www.sssscomic.com/index.php
+[check]: http://omgcheckplease.tumblr.com/
+[gunnerkrigg]: http://www.gunnerkrigg.com/
+[k6bd]: http://killsixbilliondemons.com/
+[humanstar]: http://ohumanstar.com/
+[tjamal]: http://tjandamal.com/
+[vattu]: http://www.rice-boy.com/vattu/
 
 # Others
 
