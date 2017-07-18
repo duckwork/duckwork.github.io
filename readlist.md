@@ -41,10 +41,10 @@ reviews or whatever.  Confusing, right?*
 - [*Even in Paradise*][evenparadise] -- Elizabeth Nunez
 
 [sbl]: {% post_url 2017-07-10-space-battle-lunchtime %}
-[citycity]: {% post_url 2017-07-18-insterstitial %}
-[cinderelladaughter]: {% post_url 2017-07-18-insterstitial | append: "#cinderella-ate-my-daughter-peggy-orenstein" %}
-[magickingdom]: {% post_url 2017-07-18-insterstitial | append: "#down-and-out-in-the-magic-kingdom-cory-doctorow" %}
-[evenparadise]: {% post_url 2017-07-18-insterstitial | append: "#even-in-paradise-elizabeth-nunez" %}
+[citycity]: {% post_url 2017-07-18-interstitial %}
+[cinderelladaughter]: {% post_url 2017-07-18-interstitial %}#cinderella-ate-my-daughter-peggy-orenstein
+[magickingdom]: {% post_url 2017-07-18-interstitial %}#down-and-out-in-the-magic-kingdom-cory-doctorow
+[evenparadise]: {% post_url 2017-07-18-interstitial %}#even-in-paradise-elizabeth-nunez
 
 # My old readlist
 
