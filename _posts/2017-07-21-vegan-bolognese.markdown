@@ -24,6 +24,7 @@ categories: cooklist
 | 6 oz can | tomato paste
 | 28 oz can | crushed tomatoes
 |-|-
+{:.ingredients}
 
 # method
 
