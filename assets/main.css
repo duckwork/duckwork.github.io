@@ -23,6 +23,10 @@ body {
   font-feature-settings: "kern" 1;
   font-kerning: normal; }
 
+tbody {
+  border-bottom: 1px solid black;
+}
+
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
