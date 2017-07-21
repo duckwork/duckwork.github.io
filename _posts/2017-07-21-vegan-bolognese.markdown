@@ -12,17 +12,15 @@ categories: cooklist
 | 1 | carrot, _chopped_
 |-|-
 | 2 | garlic cloves, _minced_
-| 1 T | basil
-| 1 T | oregano
-| 1 T | thyme
+| 1 T _each_ | basil, oregano, thyme
 | 1 | bay leaf
 | 1 t | red pepper flakes
 |-|-
 | 1 c | textured vegetable protein
 | 2 T | soy sauce _or_ liquid aminos
 | 1 c | vegetable broth
-| 6 oz can | tomato paste
-| 28 oz can | crushed tomatoes
+| 6 oz _can_ | tomato paste
+| 28 oz _can_ | crushed tomatoes
 |-|-
 {:.ingredients}
 
