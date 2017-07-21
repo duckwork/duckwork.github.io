@@ -8,7 +8,7 @@ categories: cooklist
 # ingredients
 
 | |
-|-
+|-|-
 | 2 T | olive oil
 | 1 | onion, _chopped_
 | 1 | carrot, _chopped_
