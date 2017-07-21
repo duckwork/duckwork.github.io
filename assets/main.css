@@ -23,15 +23,18 @@ body {
   font-feature-settings: "kern" 1;
   font-kerning: normal; }
 
-/* Tables */
-thead {
+/* Tables - INGREDIENTS LIST */
+.ingredients {
+  float: left;
+}
+.ingredients thead {
   margin: 0;
   margin-bottom: 15px;
   font-weight: 400;
   font-size: 1.5em;
 }
-th { font-weight: inherit; }
-tbody {
+.ingredients th { font-weight: inherit; }
+.ingredients tbody {
   border-bottom: 1px solid black;
   display: block;
 }
