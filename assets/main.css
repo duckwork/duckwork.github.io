@@ -33,6 +33,7 @@ thead {
 th { font-weight: inherit; }
 tbody {
   border-bottom: 1px solid black;
+  display: block;
 }
 
 /**
