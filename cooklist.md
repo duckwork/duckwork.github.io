@@ -14,5 +14,7 @@ on each one's strengths and it's weakness
 and if I made a great big mess.
 
 - Khichuri ([via NPR][khichuri])
+- [Vegan bolognese][bolognese]
 
 [khichuri]: http://www.npr.org/sections/thesalt/2017/07/20/527945413/khichuri-an-ancient-indian-comfort-dish-with-a-global-influence
+[bolognese]: {% post_url 2017-07-21-vegan-bolognese %}
