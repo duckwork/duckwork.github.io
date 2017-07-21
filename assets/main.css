@@ -38,6 +38,7 @@ body {
   border-bottom: 1px solid black;
   display: block;
 }
+#review { clear: both; }
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
