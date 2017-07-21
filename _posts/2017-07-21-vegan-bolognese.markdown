@@ -12,7 +12,7 @@ categories: cooklist
 | 1 | carrot, _chopped_
 |-|-
 | 2 | garlic cloves, _minced_
-| 1 T _each_ | basil, oregano, thyme
+| 1 T _ea._ | basil, oregano, thyme
 | 1 | bay leaf
 | 1 t | red pepper flakes
 |-|-
