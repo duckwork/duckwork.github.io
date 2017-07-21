@@ -5,8 +5,7 @@ date: 2017-07-21 14:00:00 -0700
 categories: cooklist
 ---
 
-# ingredients
-| |
+| ingredients
 |-|-
 | 2 T | olive oil
 | 1 | onion, _chopped_
