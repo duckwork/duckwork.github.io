@@ -33,7 +33,9 @@ body {
   font-weight: 400;
   font-size: 1.5em;
 }
-.ingredients th { font-weight: inherit; }
+.ingredients th { 
+  font-weight: inherit; 
+  text-align: left; }
 .ingredients tbody {
   border-bottom: 1px solid black;
   display: block;
