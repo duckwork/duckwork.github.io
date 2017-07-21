@@ -40,6 +40,10 @@ body {
   border-bottom: 1px solid black;
   display: block;
 }
+.ingredients td:nth-child(1) {
+  font-weight: bold;
+  min-width: 4em;
+}
 #review { clear: both; }
 
 /**
