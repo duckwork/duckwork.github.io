@@ -33,6 +33,7 @@ than once allows them to open up and reveal their deeper meanings.
 *A backward list of books not already on this list, hopefully with links to
 reviews or whatever.  Confusing, right?*
 
+- [*Atlas Shrugged*][atlas] -- Ayn Rand
 - [*The City and the City*][citycity] -- China Miéville
 - [*Cinderella Ate My Daughter*][cinderelladaughter] -- Peggy Orenstein
 - [*Down and Out in the Magic Kingdom*][magickingdom] -- Cory Doctorow
@@ -45,6 +46,7 @@ reviews or whatever.  Confusing, right?*
 [cinderelladaughter]: {% post_url 2017-07-18-interstitial %}#cinderella-ate-my-daughter-peggy-orenstein
 [magickingdom]: {% post_url 2017-07-18-interstitial %}#down-and-out-in-the-magic-kingdom-cory-doctorow
 [evenparadise]: {% post_url 2017-07-18-interstitial %}#even-in-paradise-elizabeth-nunez
+[atlas]: {% post_url 2017-08-04-atlas-shrugged-1 %}
 
 # My old readlist
 
