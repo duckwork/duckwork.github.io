@@ -356,6 +356,14 @@ already read _Calvin and Hobbes_ like, a million times, okay?*
 [tjamal]: http://tjandamal.com/
 [vattu]: http://www.rice-boy.com/vattu/
 
+## NPR: 5 Best Books in Translation, 2016
+
+- _The Clouds_ -- Juan Jose Saer (trans. Hilary Vaughn Dobel)
+-_ Memoirs of a Polar Bear_ -- Yoko Tawada (trans. Susan Bernofsky)
+-_ Reputations_ -- Juan Gabriel Vasquez (trans. Anne McLean)
+-_ The Happy Marriage_ -- Tahar Ben Jelloun (trans. Andre Naffis-Sahely)
+-_ Ema, the Captive_ -- Cesar Aira (trans. Chris Andrews)
+
 # Others
 
 *I wrote a script to automatically add books I think of to this list here.*
