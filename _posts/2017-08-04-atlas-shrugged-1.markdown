@@ -5,7 +5,7 @@ categories: readlist
 date: 2017-08-04 12:59 -0700
 ---
 
-*I'm currently reading *Atlas Shrugged*, Ayn Rand's 1000-page epic about (as far as I can tell) steel, trains, and strangely-named thin people.  Since it's taking me a while to get through it, I thought I'd live-blog my experience each day instead of having one big post at the end of my journey: this way I can update this blog more.*
+*I'm currently reading _Atlas Shrugged_, Ayn Rand's 1000-page epic about (as far as I can tell) steel, trains, and strangely-named thin people.  Since it's taking me a while to get through it, I thought I'd live-blog my experience each day instead of having one big post at the end of my journey: this way I can update this blog more.*
 
 # Somewhere in chapter VII
 
@@ -20,3 +20,5 @@ So I'm currently somewhere in the middle of Chapter VII, when (spoiler alert!) R
 That's the other thing about this book, by the way, the Golden God-ness of the main characters.  It seems to me that in Rand's worldview, Dagny, Rearden, and for a while, D'Anconia are perfect people in every way, and she writes them without flaws, or anyway without real flaws.  All characters need some kind of flaw to make them human, to really make me care about them; otherwise the book turns into nothing more than a flat allegory (which I guess *Atlas Shrugged* is? but it could be more interesting).  Most of the time we spend with Dagny or Rearden is a constant discussion of just how *great* they are, stoic, patient, trying to be patient with mere mortals who just *don't get their genius* or are cowardly.  I can see how these books appeal to young readers, because most of them think that way about themselves: I know I did when I was that age, even if I didn't want to admit it.  And maybe that's what makes them kind of unbelievable to me -- by the time people reach the ages of these characters, they should know better, no matter who they are.
 
 That's my main thinking right now.  Let's see where this book takes us from here!
+
+[Link to the next installment!]({% post_url 2017-08-07-atlas-shrugged-ii %})
