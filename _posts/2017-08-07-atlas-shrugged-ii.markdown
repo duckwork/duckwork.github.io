@@ -18,3 +18,9 @@ So I'd love to bring Ayn Rand back from the dead and  begin by asking her what s
 [^1]: Fun fact: it *is* just *deserts*, one *s*.  It's a  usage of *deserts* that means *being deserving of  something*, and it's still pronounced *desserts!*   WHO KNEW!?
 
 *Addendum, 8/8: I just read the first part of Chapter IX.  WHAT THE F IS WRONG WITH THESE PEOPLE??  They have seriously unhealthy feelings about sex, love and intimacy.  WTF.*
+
+*This is the second installment in a three-part series on Atlas Shrugged.  You
+can also read the [first][] or [third][] installments, if you want.*
+
+[first]: {% post_url 2017-08-04-atlas-shrugged-1 %}
+[third]: {% post_url 2017-08-16-atlas-shrugged-iii %}
