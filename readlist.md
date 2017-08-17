@@ -33,6 +33,7 @@ than once allows them to open up and reveal their deeper meanings.
 *A backward list of books not already on this list, hopefully with links to
 reviews or whatever.  Confusing, right?*
 
+- *The Three-Body Problem* -- Cixin Liu (trans. Ken Liu)
 - [*Atlas Shrugged*][atlas] -- Ayn Rand
 - [*The City and the City*][citycity] -- China Miéville
 - [*Cinderella Ate My Daughter*][cinderelladaughter] -- Peggy Orenstein
