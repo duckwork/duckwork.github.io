@@ -392,3 +392,11 @@ already read _Calvin and Hobbes_ like, a million times, okay?*
 - _The Last Unicorn_ -- Peter S. Beagle
 - _Consider Phlebas_ -- Iain M. Banks
 - _The Accusation: Forbidden Stories from Inside North Korea_ -- Bandi (seen [here](http://www.newyorker.com/books/page-turner/a-collection-of-north-korean-stories-and-the-mystery-of-their-origins))
+- _The Wolves in the Walls_ -- Neil Gaiman
+- _Autobiography of Red_ -- Anne Carson
+- _The Arrivants_ -- Kamau Brathwaite
+- _Battlefield Where the Moon Says I Love You_ -- Frank Stanford
+- _Ko or A Season on the Earth_ -- Kenneth Koch
+- _The Folding Cliffs_ -- W.S. Merwin
+- _The Golden Gate_ -- Vikram Seth
+- _The Wild Party_ -- Joseph Mocure March
