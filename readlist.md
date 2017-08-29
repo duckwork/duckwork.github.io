@@ -400,3 +400,5 @@ already read _Calvin and Hobbes_ like, a million times, okay?*
 - _The Folding Cliffs_ -- W.S. Merwin
 - _The Golden Gate_ -- Vikram Seth
 - _The Wild Party_ -- Joseph Mocure March
+- _Open City_ -- Teju Cole
+- _Rings of Saturn_ -- W.G. Sebald (trans. Michael Hulse)
