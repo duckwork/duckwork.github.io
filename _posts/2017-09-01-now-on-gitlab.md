@@ -9,8 +9,11 @@ I've decided to move my blog over to [Gitlab](https://gitlab.com).  I've been
 slowly moving most of my projects over to Gitlab for a little while now, because
 I like their commitment to free software, their availability of private repos,
 and the fact that they do static site hosting for free (which I just found out
-today!).  So if you're reading this on duckwork.github.io, find new posts, etc.
-on acdw.gitlab.io, and if you're already here, HI! 
+today!).  So if you're reading this on [duckwork.github.io][], find new posts, etc.
+on [acdw.gitlab.io][], and if you're already here, HI!
+
+[duckwork.github.io]: https://duckwork.github.io
+[acdw.gitlab.io]: https://acdw.gitlab.io
 
 A little more business: I've been behind on posting lately.  After *Atlas
 Shrugged*, I lost my momentum in reading and it took a minute to pick back up.
